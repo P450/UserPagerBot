@@ -14,19 +14,20 @@ This bot is to simply implement this feature for submissions so that users can p
 
 
 ## Prerequisites
+The bot needs two things installed:
 ```
-PRAW (Python API Wrapper)
 Python 3.x
+PRAW (Python API Wrapper)
 ```
 
-## Installing
+### Installing
 ```
 pip install praw
 ```
 **Note**: PRAW supports Python 2.7, 3.3, 3.4, 3.5, and 3.6. More info can be found in the [PRAW documentation](https://praw.readthedocs.io/).
 
 
-## Configuration
+### Configuration
 
 You also need an client id and client secret to use Reddit API. Visit Reddit [OAuth2 documentation](https://github.com/reddit-archive/reddit/wiki/OAuth2) for the instructions on how to get those.
 
