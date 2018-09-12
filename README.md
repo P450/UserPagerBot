@@ -39,7 +39,7 @@ client_secret=
 username=
 password=
 ```
-where username and password refer to your Reddit account name and password. 
+where `username` and `password` refer to your Reddit account name and password. 
 
 ## TODO
 * Add subreddit and user blocklist
