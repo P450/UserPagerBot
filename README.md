@@ -1,4 +1,4 @@
-# User_Pager_Bot
+# [User_Pager_Bot](https://www.reddit.com/user/user_pager_bot)
 Reddit bot that notifies users when their username gets mentioned in a submission's title or body.
 
 ## Why?
