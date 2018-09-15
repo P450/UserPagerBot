@@ -29,7 +29,7 @@ pip install praw
 
 ### Configuration
 
-You also need an client id and client secret to use Reddit API. Visit Reddit [OAuth2 documentation](https://github.com/reddit-archive/reddit/wiki/OAuth2) for the instructions on how to get those.
+You also need a client id and client secret to use Reddit API. Visit Reddit [OAuth2 documentation](https://github.com/reddit-archive/reddit/wiki/OAuth2) for the instructions on how to get those.
 
 After that, you need to configure the `.ini` file placed within the same directory as the source code. I have included a template called `sample_praw.ini`:
 ```
@@ -40,6 +40,7 @@ username=
 password=
 ```
 where `username` and `password` refer to your Reddit account name and password. 
+
 
 ## TODO
 * Add subreddit and user blocklist
